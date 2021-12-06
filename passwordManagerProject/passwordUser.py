@@ -12,7 +12,7 @@ def userPassword(passW):
     elif not any(c.isnumeric() for c in passW):
         return False
         #render red sign for special char
-    elif not any(c.upper() for c in passW):
+    elif not any(c.isupper() for c in passW):
         return False
         #render red sign
     else: 

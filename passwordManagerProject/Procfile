@@ -1,0 +1,1 @@
+web: gunicorn passmanager-cs351.wsgi
