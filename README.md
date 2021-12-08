@@ -1,4 +1,3 @@
-# CS-351-Project
 ## Password Manager
 ### How to execute program:
 <p>Download just the passwordManager.py file and run it in your choice of editor. Be aware that this program will write and save two files on your computer locally:</p> 
