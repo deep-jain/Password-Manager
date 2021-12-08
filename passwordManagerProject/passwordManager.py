@@ -1,4 +1,4 @@
-'''
+''' 
 A password manager created for CS 351.
 When code is executed, it can:
 1 - generate and write a key to a file named key.key 
