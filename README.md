@@ -31,6 +31,8 @@
 
 ![Example Run](https://github.com/deep-jain/CS-351-Project/blob/main/static/runImage.png)
 
+<p>Note, typing the command -1 will exit the program.</p>
+
   
  
  
