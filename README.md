@@ -7,7 +7,7 @@
 
 
 <p>If you'd like to see how the program runs without downloading anything/running it locally, check out the project on Replit.  Online IDE, Editor, Compiler, Interpreter, and REPL.
-  > https://replit.com/@DJ239/CS351#main.py
+  > https://replit.com/@DJ239/PM#main.py
 </p>
 
 ### To run the program locally:
