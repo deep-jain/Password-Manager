@@ -16,7 +16,7 @@
 
 1. Python 3.8.2 or greater: This version of python was used at the time development
   * Installation Linux Ubuntu - Bash Terminal:
-    ```sudo apt-get python ``` 
+    ```sudo apt-get install python ``` 
   * Installation on Windows - Powershell Terminal:
   ```python```
 
