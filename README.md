@@ -22,7 +22,7 @@
 
 2. Installation of all other dependencies:
   ```
-  pip freeze > requirements. txt
+  pip install -r requirements.txt
   ```
 <p>You may simply run the code using python:</p>
 
