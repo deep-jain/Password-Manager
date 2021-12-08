@@ -1,5 +1,5 @@
 ''' 
-A password manager created for CS 351.
+A password manager
 When code is executed, it can:
 1 - generate and write a key to a file named key.key 
 2- take user-inputted passwords and encrypt them to a text file (called cipher.txt) stored locally onto a computer
