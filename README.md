@@ -30,6 +30,8 @@
 
 ### During Program Run:
 
+![Example Run](https://github.com/deep-jain/CS-351-Project/blob/main/static/runImage.png)
+
   
  
  
