@@ -22,7 +22,7 @@
 
 2. Installation of all other dependencies:
   ```
-  pip install -r requirements.txt
+  pip install cryptography
   ```
 <p>You may simply run the code using python:</p>
 
