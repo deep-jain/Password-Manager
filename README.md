@@ -20,9 +20,9 @@
   * Installation on Windows - Powershell Terminal:
   ```python```
 
-2. Cryptography Library:
+2. Installation of all other dependencies:
   ```
-  pip install cryptography
+  pip freeze > requirements. txt
   ```
 <p>You may simply run the code using python:</p>
 
