@@ -10,3 +10,26 @@
 <p>If you'd like to see how the program runs without downloading anything, check out the project on Replit.  Online IDE, Editor, Compiler, Interpreter, and REPL.
   > https://replit.com/@DJ239/CS351#main.py
 </p>
+
+### To run the program locally:
+<p>You must install the following dependencies:</p>
+
+1. Python 3.8.2 or greater: This version of python was used at the time development
+  * Installation Linux Ubuntu - Bash Terminal:
+    ```sudo apt-get python ``` 
+  * Installation on Windows - Powershell Terminal:
+  ```python```
+
+2. Cryptography Library:
+  ```
+  pip install cryptography
+  ```
+<p>You may simply run the code using python:</p>
+
+```python/python3 passwordManager.py```
+
+### During Program Run:
+
+  
+ 
+ 
