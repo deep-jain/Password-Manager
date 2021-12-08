@@ -1,6 +1,6 @@
-### CS-351-Project
+# CS-351-Project
 ## Password Manager
-# How to execute program:
+### How to execute program:
 <p>Download just the main.py file and run it in your choice of editor. Be aware that this program will write two files on your computer locally: 
   -**cipher.txt**  -> Text file filled with encrypted passwords.
   -**key.key** -> Generates the key to encrypt/decrypt passwords.
